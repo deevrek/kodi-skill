@@ -1,0 +1,4 @@
+youtube (?P<YoutubeSearch>.*)
+youtube a (?P<YoutubeSearch>.*) playlist
+(?P<YoutubeSearch>.*) from youtube
+a (?P<YoutubeSearch>.*) playlist from youtube
